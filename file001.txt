@@ -1,4 +1,7 @@
 hi 
 this a sample file to demonstrate the git commands.
 this file is owned by siva rama krishna
+and 
+this is the first line with all small letters
+THIS IS THE FIRST LINE WITH ALL THE CAPITAL LETTERS
 
